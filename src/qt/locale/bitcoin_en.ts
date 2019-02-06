@@ -232,7 +232,7 @@
     </message>
     <message>
         <location line="-56"/>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your clickgems from being stolen by malware infecting your computer.</source>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoin from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -436,7 +436,7 @@
     <message>
         <location line="-511"/>
         <source>Send coins to a Litecoin address</source>
-        <translation>Send coins to a Litecoin address</translation>
+        <translation>Send coins to a Clickgem address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -501,7 +501,7 @@
     <message>
         <location line="+7"/>
         <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Sign messages with your Litecoin addresses to prove you own them</translation>
+        <translation>Sign messages with your Clickgem addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -530,7 +530,7 @@
     </message>
     <message>
         <location line="-158"/>
-        <source>Request payments (generates QR codes and clickgem: URIs)</source>
+        <source>Request payments (generates QR codes and litecoin: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -545,7 +545,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a clickgem: URI or payment request</source>
+        <source>Open a litecoin: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1158,12 +1158,12 @@
     </message>
     <message>
         <location line="+119"/>
-        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the clickgem network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+19"/>
-        <source>Attempting to spend clickgems that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1682,7 +1682,7 @@
     </message>
     <message>
         <location line="-398"/>
-        <source>Cannot start clickgem: click-to-pay handler</source>
+        <source>Cannot start litecoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2730,7 +2730,7 @@
     <message>
         <location line="+78"/>
         <location line="+13"/>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for clickgem transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3033,7 +3033,7 @@
     </message>
     <message>
         <location line="-1028"/>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less clickgems than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3068,7 +3068,7 @@
     </message>
     <message>
         <location line="+54"/>
-        <source>A message that was attached to the clickgem: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
+        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litecoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
